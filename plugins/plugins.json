@@ -41,7 +41,7 @@
         "authors": [
             "Akash"
         ],
-        "description": "YTS Provider",
+        "description": "Netflix Mirror Provider",
         "language": "en",
         "tvTypes": [
             "Movie"
@@ -58,7 +58,7 @@
         "authors": [
             "Akash"
         ],
-        "description": "YTS Provider",
+        "description": "Prime Video Provider",
         "language": "en",
         "tvTypes": [
             "Movie"
@@ -75,7 +75,7 @@
         "authors": [
             "Akash"
         ],
-        "description": "YTS Provider",
+        "description": "Ringz Provider",
         "language": "en",
         "tvTypes": [
             "Movie"
@@ -92,7 +92,7 @@
         "authors": [
             "Akash"
         ],
-        "description": "YTS Provider",
+        "description": "StreamFlix 2.0 Provider",
         "language": "en",
         "tvTypes": [
             "Movie"
