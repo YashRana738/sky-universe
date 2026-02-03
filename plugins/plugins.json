@@ -51,8 +51,8 @@
     "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/movies_drive.sky"
   },
   {
-    "id": "dev.akash.stars.nf",
-    "name": "Netflix",
+    "id": "com.megix.vegamovies",
+    "name": "VegaMovies",
     "internalName": "netflix_mirror",
     "version": 2,
     "authors": [
